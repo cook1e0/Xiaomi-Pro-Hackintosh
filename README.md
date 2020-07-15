@@ -7,15 +7,15 @@ Personal OpenCore EFI folder for macOS Catalina 10.15.5
 
 | Specifications | Detail                                                  |
 | ------------------- | ------------------------------------------- |
-| Computer model      | Xiaomi Mi NoteBook Pro 15.6''(MX150)       |
-| Processor           | Intel Core i5-8250U Processor              |
-| Memory              | 8GB Samsung DDR4 2400MHz                   |
-| Hard Disk           | Samsung NVMe SSD Controller PM961          |
+| Computer model      | Xiaomi Mi Notebook Pro 15.6"               |
+| Processor           | Intel® Core™ i5-8250U Processor            |
+| Memory              | Samsung 8GB DDR4 2400MHz                   |
+| Hard Disk           | Samsung NVMe PM961 (MZVLW256HEHP)          |
 | Integrated Graphics | Intel UHD Graphics 620                     |
-| Discrete Graphics   | Nvidia GeForce MX150                       |
+| Discrete Graphics   | NVIDIA GeForce® MX150                      |
 | Monitor             | BOE NV156FHM-N61 FHD 1920x1080 (15.6 inch) |
 | Sound Card          | Realtek ALC298 (layout-id:30/99)           |
-| Wireless Card       | Intel Wireless 8265                        |
+| Wireless Card       | Intel® Dual Band Wireless-AC 8265          |
 | SD Card Reader      | Realtek RTS5129                            |
 
 
