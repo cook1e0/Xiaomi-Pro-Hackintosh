@@ -68,16 +68,16 @@
 				<key>WiFi_2</key>
 				<dict>
 					<key>password</key>
-					<string>internet</string>
+					<string></string>
 					<key>ssid</key>
-					<string>OnePlus 7 Pro</string>
+					<string></string>
 				</dict>
 				<key>WiFi_3</key>
 				<dict>
 					<key>password</key>
 					<string></string>
 					<key>ssid</key>
-					<string></string>
+					<string>Redmi</string>
 				</dict>
 				<key>WiFi_4</key>
 				<dict>
