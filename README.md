@@ -1,6 +1,6 @@
 # Xiaomi-Pro-Hackintosh
 
-Personal OpenCore EFI folder for macOS Catalina 10.15.6
+Personal OpenCore EFI folder for macOS Big Sur Beta 4
 
 
 ## Configuration
