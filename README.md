@@ -1,6 +1,6 @@
 # Xiaomi-Pro-Hackintosh
 
-Personal OpenCore EFI folder for macOS Big Sur Beta 8
+Personal OpenCore EFI folder for macOS Big Sur Beta 9
 
 
 ## Configuration
