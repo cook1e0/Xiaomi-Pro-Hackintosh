@@ -1,6 +1,6 @@
 # Xiaomi-Pro-Hackintosh
 
-Personal OpenCore EFI folder for macOS Big Sur Beta 9
+Personal OpenCore EFI folder for macOS Big Sur 11.0.1
 
 
 ## Configuration
@@ -10,7 +10,7 @@ Personal OpenCore EFI folder for macOS Big Sur Beta 9
 | Computer model      | Xiaomi Mi Notebook Pro 15.6"               |
 | Processor           | Intel® Core™ i5-8250U Processor            |
 | Memory              | Samsung 8GB DDR4 2400MHz                   |
-| Hard Disk           | Samsung NVMe PM961 (MZVLW256HEHP)          |
+| Hard Disk           | Samsung PM961 256GB NVMe                   |
 | Integrated Graphics | Intel UHD Graphics 620                     |
 | Discrete Graphics   | NVIDIA GeForce® MX150                      |
 | Monitor             | BOE NV156FHM-N61 FHD 1920x1080 (15.6 inch) |
